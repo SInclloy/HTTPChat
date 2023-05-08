@@ -35,3 +35,7 @@ SetString - Methods for work with string and some memory
 PagesHTTP - Methods which sends HTTP pages and closing connection
 
 Threads - Unlocked threads for OpenConnection and APIView
+
+System
+----------------------------------------------------------
+Linux
