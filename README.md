@@ -36,6 +36,13 @@ PagesHTTP - Methods which sends HTTP pages and closing connection
 
 Threads - Unlocked threads for OpenConnection and APIView
 
+-----------------------------------------------------------
+
+
+*Add NONBLOCK socket
+
+*Set malloc
+
 System
 ----------------------------------------------------------
 Linux
