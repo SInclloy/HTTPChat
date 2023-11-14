@@ -43,6 +43,8 @@ Threads - Unlocked threads for OpenConnection and APIView
 
 *Set malloc
 
+* create multiprocessing -> nginx
+
 System
 ----------------------------------------------------------
 Linux
